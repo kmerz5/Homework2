@@ -6,9 +6,8 @@
     <title>Bootstrap demo</title>
   </head>
   <body>
-    <h1>Hello, world!</h1>
-  </body>
-</html>
+    
+  
 
 <nav class="navbar navbar-expand-lg bg-light">
   <div class="container-fluid">
@@ -34,3 +33,6 @@
     </div>
   </div>
 </nav>
+    
+    </body>
+</html>
