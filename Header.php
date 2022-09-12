@@ -27,9 +27,7 @@
         <li class="nav-item">
           <a class="nav-link" href="post.php">Post</a>
         </li>
-        <li class="nav-item">
-          <a class="nav-link" href="function.php">Function</a>
-        </li>
+        
         
       </ul>
     </div>
