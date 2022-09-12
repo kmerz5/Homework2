@@ -2,7 +2,7 @@
 <?php
 require_once("Header.php");
 function writeMsg() {
-  echo "Hello world!";
+  echo "Welcome to my website!";
 }
 
 writeMsg(); // call the function
