@@ -1,6 +1,12 @@
-<?php require_once("Header.php"); ?>
-<h1> Welcome to my website!</h1>
 
+<?php
+require_once("Header.php");
+function writeMsg() {
+  echo "Hello world!";
+}
+
+writeMsg(); // call the function
+?>
 
 
 
